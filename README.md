@@ -7,7 +7,7 @@
   </a>
 </div>
 <div id="counter" align="center">
-  <img src="https://komarev.com/ghpvc/?username=stojanovski-stefan" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=stojanovski-stefan&style=flat-square&color=blue" alt=""/>
 </div>
 <hr>
 
