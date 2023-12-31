@@ -1,8 +1,13 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/Dh5q0sShxgp13DwrvG/giphy.gif" widht="100">
 </div>
+<div id="badges"> 
+  <a href="http://linkedin.com/in/stefan-stojanovski-428bb0267">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</div>
+---
 
-### Hi there 👋
 
 <!--
 **stojanovski-stefan/stojanovski-stefan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
