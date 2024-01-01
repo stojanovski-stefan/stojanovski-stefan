@@ -33,7 +33,7 @@ I'm an aspiring software developer currently pursuing my Bachelors in Computer S
 <hr>
 
 ### :fire: My Stats
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=stojanovski-stefan&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=stojanovski-stefan&theme=dark)](https://git.io/streak-stats)
 <!--
 **stojanovski-stefan/stojanovski-stefan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
