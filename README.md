@@ -37,6 +37,10 @@ I'm an aspiring software developer currently pursuing my Bachelors in Computer S
 <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stojanovski-stefan&layout=compact&theme=dark&card_width=495)](https://github.com/anuraghazra/github-readme-stats)
 
+<hr>
+
+### :mailbox: How To Reach Me
+* stojansz@miamioh.edu
 <!--
 **stojanovski-stefan/stojanovski-stefan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
