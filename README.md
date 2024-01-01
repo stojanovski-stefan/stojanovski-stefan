@@ -34,6 +34,7 @@ I'm an aspiring software developer currently pursuing my Bachelors in Computer S
 
 ### :fire: My Stats
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=stojanovski-stefan&theme=dark)](https://git.io/streak-stats)
+<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stojanovski-stefan&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
