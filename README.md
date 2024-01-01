@@ -11,7 +11,7 @@
 </div>
 <hr>
 
-## About Me
+### About Me
 I'm an aspiring software developer currently pursuing my Bachelors in Computer Science at Miami University.
 
 ### :hammer_and_wrench: Languages and Tools
