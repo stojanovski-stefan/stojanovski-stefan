@@ -29,6 +29,11 @@ I'm an aspiring software developer currently pursuing my Bachelors in Computer S
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
 </div>
+
+<hr>
+
+### :fire: My Stats
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=stojanovski-stefan&theme=dark&background=000000)](https://git.io/streak-stats)
 <!--
 **stojanovski-stefan/stojanovski-stefan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
