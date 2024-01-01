@@ -11,7 +11,7 @@
 </div>
 <hr>
 
-### About Me
+### :man_technologist: About Me
 I'm an aspiring software developer currently pursuing my Bachelors in Computer Science at Miami University.
 
 <hr>
