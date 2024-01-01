@@ -40,7 +40,7 @@ I'm an aspiring software developer currently pursuing my Bachelors in Computer S
 <hr>
 
 ### :mailbox: How To Reach Me
-* stojansz@miamioh.edu
+stojansz@miamioh.edu
 <!--
 **stojanovski-stefan/stojanovski-stefan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
