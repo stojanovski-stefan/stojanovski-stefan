@@ -12,7 +12,7 @@
 <hr>
 
 ## About Me
-
+I'm an aspiring software developer currently pursuing a Bachelor of Science in Computer Science at Miami University.
 <!--
 **stojanovski-stefan/stojanovski-stefan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
