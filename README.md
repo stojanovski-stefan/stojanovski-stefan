@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/Dh5q0sShxgp13DwrvG/giphy.gif" widht="100">
+  <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" widht="100">
 </div>
 <div id="badges" align="center"> 
   <a href="http://linkedin.com/in/stefan-stojanovski-428bb0267">
